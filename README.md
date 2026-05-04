@@ -6,7 +6,7 @@ Site informativo sobre a história e curiosidades do sistema operacional Android
 
 ## 📸 Preview
 
-![projeto-android](<img width="1899" height="919" alt="image" src="https://github.com/user-attachments/assets/a08fc761-d1c9-4fcd-a88c-2b2b507f27c3" />)
+![projeto-android](https://github.com/user-attachments/assets/a08fc761-d1c9-4fcd-a88c-2b2b507f27c3)
 
 ---
 
