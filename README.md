@@ -4,12 +4,6 @@ Site informativo sobre a história e curiosidades do sistema operacional Android
 
 ---
 
-## 📸 Preview
-
-> 💡 *Adicione aqui um print/screenshot do projeto!*
-
----
-
 ## 🚀 Acesse o Projeto
 
 [![Acesse o site](https://img.shields.io/badge/🌐_Ver_Projeto_Online-00B4D8?style=for-the-badge)](https://rafatrujillo.github.io/projeto-android/)
